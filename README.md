@@ -3,7 +3,7 @@
 
 ## Identifikasi Data Aset Tetap Melalui Analisis Realisasi Belanja Pemeliharaan
 
-Demo: https://share.streamlit.io/rohman13/pemeliharaan-bmn/main/app.py
+[Demo Dashboard](https://share.streamlit.io/rohman13/pemeliharaan-bmn/main/app.py)
 
 **data yang digunakan merupakan data dummy, tidak menunjukkan data sebenarnya.*
 
