@@ -13,7 +13,7 @@ from lightgbm import LGBMRegressor
 from sklearn.metrics import mean_absolute_error
 import joblib as jbl
 
-locale.setlocale(locale.LC_ALL, 'ID')
+# locale.setlocale(locale.LC_ALL, 'ID')
 
 # config
 st.set_page_config(layout="wide")
