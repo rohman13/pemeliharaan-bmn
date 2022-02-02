@@ -28,7 +28,7 @@ daftar_satker = sorted(set(pm['KODE_SATKER']))
 daftar_satker.insert(0, "Pilih Satker")
 
 # format function
-fmt = lambda x: locale.currency(x, grouping=True, symbol=True)
+fmt = lambda x: "{:,}".format(x)
 
 # filter satker:
 select_satker = st.sidebar.selectbox(
